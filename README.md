@@ -31,12 +31,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=lucas-beltrao-placeholder&theme=onedark" alt="Lucas Beltrão Trophies"/>
 </p>
 
-## 🤝 Let's Connect
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Connect with me here](https://linkedin.com/in/lucas-beltrao-placeholder) |
-| **Email** | lucas.beltrao.email@placeholder.com |
 
 ***
 <p align="center">
