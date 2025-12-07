@@ -22,14 +22,6 @@
 
 -   Mastering **Next.js** for full-stack application development.
 -   Exploring **DevOps** practices and basic **Cloud** services (e.g., AWS/GCP).
--   Developing personal projects to apply advanced data structures and algorithms (Python).
-
-## 📊 My GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-beltrao-placeholder&show_icons=true&theme=midnight&hide_border=true" alt="Lucas Beltrão GitHub Stats"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=lucas-beltrao-placeholder&theme=onedark" alt="Lucas Beltrão Trophies"/>
-</p>
 
 
 ***
